@@ -1,2 +1,2 @@
 # database
-Database for the Appseed
+Database for Appseed
